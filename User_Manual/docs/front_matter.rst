@@ -35,6 +35,7 @@
 		
 		-  An enhanced API function library for customizing EPANET (see http://wateranalytics.org/EPANET/).
 
+..
 
 	The following topics are covered in this Manual:
 
