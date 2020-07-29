@@ -17,8 +17,8 @@
   \addcontentsline{toc}{chapter}{EPANET 2.2 User Manual Overview}
 ..
 
-	This manual describes how to run version 2.2 of the EPANET water distribution 
-	system simulation model. Notable improvements made by this version include:
+This manual describes how to run version 2.2 of the EPANET water distribution 
+system simulation model. Notable improvements made by this version include:
 
 
         -  The ability to use pressure-dependent demands in hydraulic analyses.
@@ -36,7 +36,7 @@
         -  An enhanced API function library for customizing EPANET (see http://wateranalytics.org/EPANET/).
 
 
-	The following topics are covered in this Manual:
+The following topics are covered in this Manual:
 
 :ref:`introduction` of this manual describes what EPANET is and its
 capabilities.
