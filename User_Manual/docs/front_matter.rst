@@ -21,13 +21,13 @@
 	system simulation model. Notable improvements made by this version include:
 
 
-		*  The ability to use pressure-dependent demands in hydraulic analyses.
-		*  An option to allow full tanks to overflow.
-		*  Options that insure a more accurate hydraulic analysis is made.
-		*  More robust handling of low and zero flow hydraulic conditions.
-		*  Faster solution times for single period hydraulic analyses.
-		*  Improved mass balance results for water quality analyses.
-		*  An enhanced API function library for customizing EPANET (see http://wateranalytics.org/EPANET/).
+		-  The ability to use pressure-dependent demands in hydraulic analyses.
+		-  An option to allow full tanks to overflow.
+		-  Options that insure a more accurate hydraulic analysis is made.
+		-  More robust handling of low and zero flow hydraulic conditions.
+		-  Faster solution times for single period hydraulic analyses.
+		-  Improved mass balance results for water quality analyses.
+		-  An enhanced API function library for customizing EPANET (see http://wateranalytics.org/EPANET/).
 
 
 	The following topics are covered in this Manual:
